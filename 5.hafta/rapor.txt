@@ -1,0 +1,48 @@
+#Uygulama Rehberi#
+
+
+
+*********************************************************************************************************************
+
+
+
+
+	* Text Recognition uygulamasýný çalýþtýrýn
+
+
+
+
+
+
+	* Resim yükle butanunu kullanarak patterns klasöründeki
+	  örnek verilerden birini seçin ve tanýma iþlemini otomatik
+	  oalarak yapmýþ olacaksýnýz
+
+
+
+
+
+
+
+	* Ayrýca uygulama "Cleaned Images" klasörüne çalýþýlan örnek objeleri toplar.
+
+
+
+
+
+
+
+
+	* "Segmented Images" klasörü altýnda ise ön iþlemlere tabi tutulmuþ hale dönüþtürdüðü objeleri saklar.
+
+
+
+
+
+
+
+ 
+
+
+
+*********************************************************************************************************************
